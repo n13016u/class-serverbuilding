@@ -17,6 +17,8 @@
 
 ## chef
 
+knifeでいろいろした。
+
 ## docker
 
 ## git
